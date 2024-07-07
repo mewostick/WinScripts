@@ -7,6 +7,8 @@ It's main purpose is to reduce the time I spend setting up Windows to be my defi
 
 Read more about it on <a href="https://catdomeow.xyz/blog/bat-attempt-winscripts" target="_blank">here</a>.
 
+## Supported operating systems
+Windows 10 21H2 or newer
 
 ## Gallery
 <img src="https://github.com/mewostick/WinScripts/blob/main/gallery/start.png?raw=true">
