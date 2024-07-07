@@ -10,6 +10,8 @@ Read more about it on <a href="https://catdomeow.xyz/blog/bat-attempt-winscripts
 ## Supported operating systems
 Windows 10 21H2 or newer
 
+May work on older OS versions as well but I don't test on those.
+
 ## Gallery
 <img src="https://github.com/mewostick/WinScripts/blob/main/gallery/start.png?raw=true">
 <img src="https://github.com/mewostick/WinScripts/blob/main/gallery/tweaks.png?raw=true">
