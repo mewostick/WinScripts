@@ -113,7 +113,7 @@ echo.
 echo. Type in "d1" to remove JPEG quality increase
 echo. Type in "d2" to disable verbose messages
 echo. Type in "d3" to enable MRT updates
-echo. Type in "d4" to disable Ctrl+Alt+Delete on lockscreen
+echo. Type in "d4" to disable Ctrl+Alt+Delete on lock screen
 echo.
 echo. Type in "start" to go to the main menu
 echo. Type in "restart" to restart your machine
